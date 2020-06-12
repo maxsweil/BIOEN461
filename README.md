@@ -25,7 +25,7 @@ Attached to a first person controller, triggers dialogue when colliding with spe
 Attached to an animated object, causes a new animation to play when colliding with a different object.
 
 
-Several resources were provided for free by various content creators. Their works are credited here:
+#### Several resources were provided for free by various content creators. Their works are credited here:
 
 School Assets:
 https://linitsa0.wixsite.com/websitejarst
