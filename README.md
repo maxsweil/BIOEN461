@@ -23,3 +23,18 @@ Attached to a first person controller, triggers dialogue when colliding with spe
 
 ### PlayHappy
 Attached to an animated object, causes a new animation to play when colliding with a different object.
+
+
+Several resources were provided for free by various content creators. Their works are credited here:
+
+School Assets:
+https://linitsa0.wixsite.com/websitejarst
+
+NPC Asset:
+https://assetstore.unity.com/packages/3d/characters/humanoids/npc-character-proto-series-132051
+
+Animation Assets:
+https://assetstore.unity.com/packages/tools/animation/umotion-community-animation-editor-95986?aid=1101l3oHr&pubref=homepage&utm_source=aff
+
+Backpack Asset:
+https://poly.google.com/view/cJFKpOZzl8s
