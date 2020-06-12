@@ -24,7 +24,7 @@ Attached to a first person controller, triggers dialogue when colliding with spe
 ### PlayHappy
 Attached to an animated object, causes a new animation to play when colliding with a different object.
 
-
+ <br />
 #### Several resources were provided for free by various content creators. Their works are credited here:
 
 School Assets:
